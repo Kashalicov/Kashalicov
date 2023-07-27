@@ -1,0 +1,6 @@
+-  Hi, my name is Júnior Rodrigues but I'm known on the net as Kashalicov or Kasha for those closest to me. 👋
+-  My personal interest is growth in the programming business. I have a great taste for web and bot development.👀
+-  I'm currently studying computer science, faith in the father that the diploma comes out. 🌱
+-  I try to help everyone in what I can, having the knowledge I pass on to the next person.
+-  
+-  You can contact me on discord: kasha6743 or on instagram: @junior_rodrigues_pnz
