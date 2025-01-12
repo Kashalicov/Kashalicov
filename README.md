@@ -3,4 +3,4 @@
 -  I'm currently studying computer science, faith in the father that the diploma comes out. 🌱
 -  I try to help everyone in what I can, having the knowledge I pass on to the next person.
 -  
--  You can contact me on discord: kasha6743 or on instagram: @junior_rodrigues_pnz
+-  You can contact me on discord: kasha6743 or on instagram: @jrkdev
