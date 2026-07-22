@@ -1,10 +1,11 @@
-# Olá, eu sou o Junior 👋
+# Olá, eu sou o Júnior 👋
 
-Fundador da **KashaTech**, construindo produtos SaaS do zero — do banco de dados à interface.
+Conhecido na internet como **Kashalicov** (ou **Kasha** pros mais próximos). Fundador da **KashaTech**, construindo produtos SaaS do zero — do banco de dados à interface.
 
 - 🚀 No momento, desenvolvendo um **SaaS multi-tenant de gestão de locação/estoque**
-- 🛠️ Stack principal: Node.js, TypeScript, React, PostgreSQL, Prisma
-- 🌱 Sempre aprendendo e evoluindo produtos reais, não só protótipos
+- 💻 Interesse por desenvolvimento web e de bots
+- 🎓 Estudando Ciência da Computação
+- 🤝 Gosto de ajudar quem está aprendendo — repasso o que sei sempre que posso
 
 ## Tecnologias
 
@@ -18,8 +19,4 @@ Fundador da **KashaTech**, construindo produtos SaaS do zero — do banco de dad
 
 ## Contato
 
-📫 [LinkedIn](#) · [E-mail](#) · [Site](#)
-
-<!--
-Substitua os links de contato acima pelos seus reais antes de publicar.
--->
+📫 Discord: `kasha6743` · Instagram: [@jrkdev](https://instagram.com/jrkdev)
