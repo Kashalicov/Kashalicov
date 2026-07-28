@@ -19,4 +19,4 @@ Conhecido na internet como **Kashalicov** (ou **Kasha** pros mais próximos). Fu
 
 ## Contato
 
-📫 Discord: `kashalicov` · Instagram: [@jrkdev](https://instagram.com/jrkdev)
+📫 Discord: `kashalicov` · Instagram: [@jrkdev](https://instagram.com/jrkdev) · E-mail: junior@kashaplace.com.br
