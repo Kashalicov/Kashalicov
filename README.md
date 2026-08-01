@@ -3,7 +3,7 @@
 
 Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banco de Olhos**. Gosto de análise de dados, estudos e desenvolvimento de software.
 
-📫 [LinkedIn](https://www.linkedin.com/feed/) · 🌐 [AurixHub.com.br](https://aurixhub.com.br)
+📫 [LinkedIn](https://www.linkedin.com/in/jrkdev/) · 🌐 [AurixHub.com.br](https://aurixhub.com.br)
 
 ---
 
