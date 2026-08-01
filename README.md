@@ -11,7 +11,7 @@ Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banc
 
 ### [AurixHub](https://aurixhub.com.br)
 
-Projeto principal do meu portfólio, desenvolvido com apoio do Claude (Anthropic). [Descreva em 1-2 frases o que o AurixHub faz.]
+Sistema de gestão para empresas de locação de festas e eventos — pedidos, estoque, financeiro, contratos com aceite digital, loja virtual e portal do cliente em um só lugar. Projeto principal do meu portfólio.
 
 ![capa AurixHub](./docs/aurixhub-cover.png)
 
