@@ -21,6 +21,8 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 
 | Projeto | Descrição | Stack | Links |
 |---|---|---|---|
+| 🔗 **[Encurtador de URLs](https://github.com/Kashalicov/encurtador-url)** | API com testes automatizados, CI (GitHub Actions), Docker e documentação Swagger | Python, FastAPI, SQLModel, Docker | [Repo](https://github.com/Kashalicov/encurtador-url) · [Deploy](https://encurtador-url-api-5txq.onrender.com/docs) |
+| 📊 **[Análise de Dados (Gapminder)](https://github.com/Kashalicov/analise-dados-gapminder)** | Análise exploratória de expectativa de vida, fertilidade e população global (1955–2005) | Python, pandas, matplotlib | [Repo](https://github.com/Kashalicov/analise-dados-gapminder) |
 | 🗂️ **[Dashboard Financeiro + API](https://github.com/Kashalicov/dashboard-financeiro)** | Controle de receitas/despesas com gráficos de evolução mensal e por categoria | Node.js, Express, React, Chart.js | [Repo](https://github.com/Kashalicov/dashboard-financeiro) · [Deploy](https://dashboard-financeiro-lyart-chi.vercel.app) |
 | 🔐 **[Sistema Login + CRUD](https://github.com/Kashalicov/login-crud-app)** | Autenticação JWT com CRUD de tarefas por usuário | Node.js, Express, React, JWT | [Repo](https://github.com/Kashalicov/login-crud-app) · [Deploy](https://login-crud-app-seven.vercel.app) |
 | 📇 **[Mini CRM + Agendamento](https://github.com/Kashalicov/mini-crm-agendamento)** | Cadastro de clientes e agendamentos com painel de próximos compromissos | Python, Flask, SQLite | [Repo](https://github.com/Kashalicov/mini-crm-agendamento) · [Deploy](https://mini-crm-agendamento.onrender.com) |
@@ -35,7 +37,10 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
