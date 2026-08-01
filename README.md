@@ -13,8 +13,6 @@ Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banc
 
 Sistema de gestão para empresas de locação de festas e eventos — pedidos, estoque, financeiro, contratos com aceite digital, loja virtual e portal do cliente em um só lugar. Projeto principal do meu portfólio.
 
-![capa AurixHub](./docs/aurixhub-cover.png)
-
 🌐 **[Acessar AurixHub.com.br](https://aurixhub.com.br)**
 
 ---
@@ -44,4 +42,11 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 
 ## 📈 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kashalicov&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashalicov&show_icons=true&theme=default&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashalicov&layout=compact&theme=default&hide_border=true" height="165" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kashalicov&theme=default&hide_border=true" height="165" alt="Streak de contribuições" />
+</p>
