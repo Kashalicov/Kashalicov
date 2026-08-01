@@ -43,10 +43,5 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashalicov&show_icons=true&theme=default&hide_border=true" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashalicov&layout=compact&theme=default&hide_border=true" height="165" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kashalicov&theme=default&hide_border=true" height="165" alt="Streak de contribuições" />
 </p>
