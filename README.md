@@ -23,9 +23,9 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 
 | Projeto | Descrição | Stack | Links |
 |---|---|---|---|
-| 🗂️ **[Dashboard Financeiro + API](https://github.com/Kashalicov/dashboard-financeiro)** | Controle de receitas/despesas com gráficos de evolução mensal e por categoria | Node.js, Express, React, Chart.js | [Repo](https://github.com/Kashalicov/dashboard-financeiro) · [Deploy](#) |
-| 🔐 **[Sistema Login + CRUD](https://github.com/Kashalicov/login-crud-app)** | Autenticação JWT com CRUD de tarefas por usuário | Node.js, Express, React, JWT | [Repo](https://github.com/Kashalicov/login-crud-app) · [Deploy](#) |
-| 📇 **[Mini CRM + Agendamento](https://github.com/Kashalicov/mini-crm-agendamento)** | Cadastro de clientes e agendamentos com painel de próximos compromissos | Python, Flask, SQLite | [Repo](https://github.com/Kashalicov/mini-crm-agendamento) · [Deploy](#) |
+| 🗂️ **[Dashboard Financeiro + API](https://github.com/Kashalicov/dashboard-financeiro)** | Controle de receitas/despesas com gráficos de evolução mensal e por categoria | Node.js, Express, React, Chart.js | [Repo](https://github.com/Kashalicov/dashboard-financeiro) · [Deploy](https://dashboard-financeiro-lyart-chi.vercel.app) |
+| 🔐 **[Sistema Login + CRUD](https://github.com/Kashalicov/login-crud-app)** | Autenticação JWT com CRUD de tarefas por usuário | Node.js, Express, React, JWT | [Repo](https://github.com/Kashalicov/login-crud-app) · [Deploy](https://login-crud-app-seven.vercel.app) |
+| 📇 **[Mini CRM + Agendamento](https://github.com/Kashalicov/mini-crm-agendamento)** | Cadastro de clientes e agendamentos com painel de próximos compromissos | Python, Flask, SQLite | [Repo](https://github.com/Kashalicov/mini-crm-agendamento) · [Deploy](https://mini-crm-agendamento.onrender.com) |
 | 🗃️ **[Automação de Arquivos](https://github.com/Kashalicov/automacao-organizador)** | Organiza arquivos automaticamente por categoria, com modo simulação | Python | [Repo](https://github.com/Kashalicov/automacao-organizador) |
 | 📮 **[Busca de CEP + Relatório CSV](https://github.com/Kashalicov/cep-csv)** | Consulta CEPs em lote e gera relatório CSV de endereços | Python | [Repo](https://github.com/Kashalicov/cep-csv) |
 
