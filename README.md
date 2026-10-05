@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banco de Olhos**. Curto transformar problema real em software: da análise de dados ao deploy em produção.
 
-📫 [LinkedIn](https://www.linkedin.com/in/jrkdev/) · 🌐 [AurixHub.com.br](https://aurixhub.com.br)
+📫 [LinkedIn](https://www.linkedin.com/in/jrkdev/) · 🌐 [AurixHub.com.br](https://aurixhub.com.br) · 🏢 [KashaTech](https://www.kashaplace.com.br)
 
 ---
 
@@ -10,9 +10,10 @@ Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banc
 
 - 🎓 Cursando Ciência da Computação
 - 💼 Coordenador de T.I. na Fundação Banco de Olhos, onde lido com infraestrutura, sistemas e suporte no dia a dia
-- 🧩 No tempo livre, construo projetos completos — API, banco de dados, front-end e deploy — para aprender a stack de ponta a ponta, não só a parte que já domino
+- 🏢 Fundador da **KashaTech**, estúdio de software e sites em Petrolina (PE) e Juazeiro (BA), que desenvolve o AurixHub e sistemas sob medida
+- 🧩 Construo projetos completos — API, banco de dados, front-end e deploy — para aprender a stack de ponta a ponta, não só a parte que já domino
 - 📈 Gosto especialmente da parte de análise de dados: entender o "porquê" por trás dos números antes de sair escrevendo código
-- 🛠️ Atualmente aprofundando CI/CD, Docker e boas práticas de deploy (todos os projetos abaixo têm testes automatizados e a maioria já está no ar)
+- 🛠️ Atualmente aprofundando CI/CD, Docker e boas práticas de deploy (todos os projetos públicos abaixo têm testes automatizados e a maioria já está no ar)
 
 ---
 
@@ -20,13 +21,26 @@ Estudante de Ciência da Computação e Coordenador de T.I. na **Fundação Banc
 
 ### [AurixHub](https://aurixhub.com.br)
 
-Sistema de gestão para empresas de locação de festas e eventos — pedidos, estoque, financeiro, contratos com aceite digital, loja virtual e portal do cliente em um só lugar. Projeto principal do meu portfólio, em desenvolvimento e uso contínuo.
+SaaS multi-tenant para empresas de locação de festas e eventos — pedidos, estoque com checagem de disponibilidade por período, financeiro, contratos com aceite digital, loja virtual pública e portal do cliente. Planos com limites por recurso, teste grátis de 30 dias e checkout com cobrança recorrente. Projeto principal do meu portfólio, em produção e desenvolvimento contínuo.
+
+**Stack:** Node.js, Express, TypeScript, Prisma, PostgreSQL, React, Vite, Tailwind · **Infra:** Cloudflare (site e R2), Shard Cloud (API), Neon (banco)
 
 🌐 **[Acessar AurixHub.com.br](https://aurixhub.com.br)**
 
 ---
 
-## 💻 Projetos
+## 🏗️ Outros projetos (repositórios privados)
+
+| Projeto | O que é | Estado |
+|---|---|---|
+| 📅 **[Sizorx](https://www.sizorx.com.br)** | SaaS de agendamento multi-tenant para barbearias, salões e consultórios, com página pública de marcação e limites por plano | No ar, com testes e CI |
+| 🩺 **Clyvia** | Prontuário eletrônico para oftalmologia, com foco em não digitar o mesmo dado duas vezes (Next.js, Prisma, PostgreSQL) | MVP em construção |
+| ❄️ **[Clean Air](https://cleanairclimatizacao.com.br)** | Site institucional e painel interno (orçamentos, ordens de serviço, funil de vendas) de uma empresa de climatização | No ar |
+| 🌐 **[KashaTech](https://www.kashaplace.com.br)** | Site do meu estúdio | No ar |
+
+---
+
+## 💻 Projetos públicos (estudo e portfólio)
 
 | Projeto | Descrição | Stack | Links |
 |---|---|---|---|
@@ -38,7 +52,7 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 | 🗃️ **[Automação de Arquivos](https://github.com/Kashalicov/automacao-organizador)** | Organiza arquivos automaticamente por categoria, com categorias customizáveis via JSON | Python | [Repo](https://github.com/Kashalicov/automacao-organizador) |
 | 📮 **[Busca de CEP + Relatório CSV](https://github.com/Kashalicov/cep-csv)** | Consulta CEPs em lote e gera relatório CSV de endereços, com cache para evitar reconsultas | Python | [Repo](https://github.com/Kashalicov/cep-csv) |
 
-> Todos os repositórios têm README próprio com detalhes do projeto, decisões técnicas e o que aprendi em cada um.
+> Os projetos desta tabela são públicos e têm README próprio com detalhes do projeto, decisões técnicas e o que aprendi em cada um.
 
 ---
 
@@ -55,6 +69,11 @@ Sistema de gestão para empresas de locação de festas e eventos — pedidos, e
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
